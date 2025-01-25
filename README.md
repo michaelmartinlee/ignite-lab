@@ -1,50 +1,49 @@
 # 🚀 Ignite Lab - Rafael Sangali
 ---
-## 📌Introdução
+## 📌Introduction
 
-Do dia 20/06 ~ 24/06 a Rocketseat, realizou um evento para divulgar o seu curso, contudo nessa semana realizou uma aplicação do próprio evento, uma plataforma de aulas. Assim com o intuito de me aprofundar em React, me inspirei em suas aulas, com toques pessoais
+From June 20th to June 24th, Rocketseat hosted an event to promote their course. During this week, they developed an application for the event itself, a platform for classes. Inspired by their lessons and adding personal touches, I used this opportunity to deepen my knowledge in React.
 
-### 🔧 Instalação
+### 🔧 Installation
 
-Para a **Implantação** dessa aplicação, nessecita clonar o repositório
-```
+To **deploy** this application, you need to clone the repository:
+
 git clone https://github.com/rafaelsangali/ignite-lab
-```
-Logo após, instalar pacotes e dependências
-```
+
+Then, install the packages and dependencies:
+
 npm install
-```
-
-### 📋 Funcionalidades
-
-Nessa aplicação podemos
-
-* Realizar armazenamento de pessoas interessadas
-* Armazenamento de informações como (Professores, aulas)
-* Ter aulas disponibilizadas dinâmicamente conforme o horário previsto
 
 
-### 🔧 Ferramentas Utilizadas
+### 📋 Features
 
-Foram utilizados as seguintes ferramentas:
+In this application, you can:
 
-* [Typescript](https://www.typescriptlang.org/) - Linguagem
-* [Vite](https://vitejs.dev/) - Framework React
-* [Tailwind](https://tailwindcss.com/) - Framework de Estilização
-* [Apollo client](https://www.apollographql.com/docs/react/) - Framework para Requisões
-* [GraphQL](https://graphql.org/) - Framework Back-End
-* [Phospor Icons](https://phosphoricons.com/) - Framework de icones
+* Store information about interested participants
+* Manage data like teachers and classes
+* Dynamically make classes available based on scheduled times
 
+### 🔧 Tools Used
 
-## 🎁 Expressões de gratidão
+The following tools were utilized:
 
- Profundamente grato a Rockeseat por me proporcionar meu aprofundamento em fundamentos de React, nessa aplicação pude aprender:
-* Manipulação de requisições com graphql e apollo
-* Estilização com tailwind
-* Aplicação de estados para estilização 
-* Criação de componentes dinâmicos a partir de dados da API
-* etc.
+* [Typescript](https://www.typescriptlang.org/) - Programming Language
+* [Vite](https://vitejs.dev/) - React Framework
+* [Tailwind](https://tailwindcss.com/) - Styling Framework
+* [Apollo Client](https://www.apollographql.com/docs/react/) - Request Framework
+* [GraphQL](https://graphql.org/) - Back-End Framework
+* [Phosphor Icons](https://phosphoricons.com/) - Icon Framework
 
+## 🎁 Expressions of Gratitude
+
+I am deeply grateful to Rocketseat for providing the opportunity to deepen my knowledge of React fundamentals. Through this application, I learned:
+
+* Handling requests with GraphQL and Apollo
+* Styling with Tailwind
+* Applying state for styling
+* Creating dynamic components from API data
+* And more.
 
 ---
-⌨️ com ❤️ por [Rafael Sangali](https://github.com/rafaelsangali) 😊
+⌨️ with ❤️ by [Rafael Sangali](https://github.com/rafaelsangali) 😊
+
